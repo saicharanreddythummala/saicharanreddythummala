@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sai Charan Reddy Thummala</h1>
 <h3 align="center">A passionate MERN Stack developer from India.</h3>
 
-
 - 🌱 I’m currently learning **React, Node Js, MongoDB & Express**
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **saicharanreddy1999.ct@gmail.com**
+- 📫 **[Portfolio](https://sai-charan-reddy-thummala.netlify.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
